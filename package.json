@@ -12,7 +12,9 @@
     "lodash": "^4.17.19",
     "moment": "^2.27.0",
     "morgan": "^1.10.0",
-    "sequelize": "^6.3.4"
+    "sequelize": "^6.3.4",
+    "should": "^13.2.3",
+    "supertest": "^4.0.2"
   },
   "devDependencies": {},
   "scripts": {

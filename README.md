@@ -6,6 +6,7 @@ password encrypt with bcryptjs npm package ,
 cors config with cors npm package ,
 env configs with dotenv npm package ,
 use lodash, moment, morgan, sequelize npm packages.
+unit test example with should and supertest.
 ```
 
 ## Project setup
