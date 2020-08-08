@@ -41,4 +41,5 @@ try{
         console.log(`application up and running on port: ${port}`);
     });
 }catch (e) {
-    console.log(e.message)
+    console.log(e.message);
+}

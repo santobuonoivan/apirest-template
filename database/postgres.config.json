@@ -1,0 +1,40 @@
+{
+  "development": {
+  "username": "",
+  "password": "",
+  "database": "",
+  "schema": "",
+  "host": "",
+  "port": "",
+  "dialect": "",
+  "ssl": true
+},
+  "production": {
+  "username":  "",
+  "password": "",
+  "database": "",
+  "schema": "",
+  "host": "",
+  "port": "",
+  "dialect": "",
+  "ssl": true
+  },
+  "productionHeroku": {
+    "username":  "",
+    "password": "",
+    "database": "",
+    "schema": "",
+    "host": "",
+    "port": "",
+    "dialect": "",
+    "ssl": true
+  },
+  "test": {
+    "username": "",
+    "password": "",
+    "database": "",
+    "schema": "",
+    "host": "",
+    "dialect": ""
+  }
+}

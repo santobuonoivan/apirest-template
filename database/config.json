@@ -1,0 +1,13 @@
+{
+  "dialectOptions": {
+    "ssl": {
+      "require": true,
+      "rejectUnauthorized": false
+    },
+    "keepAlive": true
+  },
+  "ssl": true,
+  "define": {
+    "timestamps": false
+  }
+}
